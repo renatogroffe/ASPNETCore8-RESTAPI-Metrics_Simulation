@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMetrics", "APIMetrics.csproj", "{A499946C-58F4-489F-855A-3D0C43E38EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A499946C-58F4-489F-855A-3D0C43E38EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A499946C-58F4-489F-855A-3D0C43E38EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A499946C-58F4-489F-855A-3D0C43E38EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A499946C-58F4-489F-855A-3D0C43E38EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD684919-290B-45E6-891D-6D1574B23877}
+	EndGlobalSection
+EndGlobal
